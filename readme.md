@@ -29,5 +29,4 @@ A C++ console application for booking and checking airline tickets.
 The system saves ticket details in a text file (`tickets.txt`) with the following format:
 
 Name: [Full Name], Gender: [Gender], From: [From], Destination: [Destination], Travel Date: [Date], Class: [Class], Contact Info: [Contact], Seat: [Seat]
-"# AIRLINE-TICKET-SYSTEM" 
-"# AIRLINE-TICKET-SYSTEM" 
+ 
